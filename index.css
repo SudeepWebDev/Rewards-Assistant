@@ -657,4 +657,7 @@ div.faq-items>h3 {
     div#faq-nav ul {
         flex-direction: column;
     }
+      #faq {
+        margin: 0;
+    }
 }
