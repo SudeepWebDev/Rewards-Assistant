@@ -1,0 +1,14 @@
+{
+    "name": "Rewards Assitant",
+    "short_name": "Rewards Assitant",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/images/logo300.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        }
+    ]
+}
