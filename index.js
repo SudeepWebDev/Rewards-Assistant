@@ -146,6 +146,18 @@ features.forEach((feature, index) => {
 // 
 
 
+
+
+
+const hamburger = document.querySelector('.hamburger');
+const menu = document.querySelector('.menu');
+const hamburgerIcon = document.querySelector('.hamburger i');
+
+hamburger.addEventListener('click', () => {
+    menu.classList.toggle('active');
+    hamburgerIcon.classList.toggle('fa-bars');
+    hamburgerIcon.classList.toggle('fa-xmark');
+});
 const faqItems = document.querySelectorAll('#faq div.faq-items ol li');
 
 faqItems.forEach(item => {
@@ -156,14 +168,4 @@ faqItems.forEach(item => {
         item.classList.toggle('open');
         answer.style.display = item.classList.contains('open') ? 'block' : 'none';
     });
-});
-
-const hamburger = document.querySelector('.hamburger');
-const menu = document.querySelector('.menu');
-const hamburgerIcon = document.querySelector('.hamburger i');
-
-hamburger.addEventListener('click', () => {
-    menu.classList.toggle('active');
-    hamburgerIcon.classList.toggle('fa-bars');
-    hamburgerIcon.classList.toggle('fa-xmark');
 });
