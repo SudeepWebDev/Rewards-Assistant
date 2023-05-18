@@ -146,7 +146,7 @@ features.forEach((feature, index) => {
 // 
 
 
-const faqItems = document.querySelectorAll('#faq ul.faq-items li');
+const faqItems = document.querySelectorAll('#faq div.faq-items ol li');
 
 faqItems.forEach(item => {
     const question = item.querySelector('h3');
@@ -157,6 +157,7 @@ faqItems.forEach(item => {
         answer.style.display = item.classList.contains('open') ? 'block' : 'none';
     });
 });
+
 const hamburger = document.querySelector('.hamburger');
 const menu = document.querySelector('.menu');
 const hamburgerIcon = document.querySelector('.hamburger i');
