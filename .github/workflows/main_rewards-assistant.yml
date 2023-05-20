@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Rewards-Assistant'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F286034B9E3F44518C6E381E534C6E41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7488AF038EEB4473BB7595CC348DDA79 }}
           package: .
