@@ -1,37 +1,55 @@
 {
-    "words" : [
-    "@gyankijigyasa", 
-        "Hemophilia @gyankijigyasa", "www.youtube.com/@gyankijigyasa",
-    "Venus @gyankijigyasa", "Saturn @gyankijigyasa", "Heart Attack @gyankijigyasa", "Dimple @gyankijigyasa",
-    "Jupiter @gyankijigyasa", "Light Year @gyankijigyasa", "Oxygen @gyankijigyasa", "Mars @gyankijigyasa",
-    "Creation of universe @gyankijigyasa", "Bitcoin price", "How to cook pasta", "Best restaurants near me", "Funny cat videos",
-    "How to tie a tie", "How to learn a new language", "Best books to read", "How to start a business"
-],
-
-
-"SciAndTech" : [
-
-    "Cryptocurrency",
-    "Green Computing",
-    "Data Encryption",
-    "Internet of Everything",
-    "Artificial Reality", "www.youtube.com/@gyankijigyasa",
-    "Saturn @gyankijigyasa", "Heart Attack @gyankijigyasa", "Dimple @gyankijigyasa",
-    "Jupiter @gyankijigyasa", "Light Year @gyankijigyasa", "Oxygen @gyankijigyasa", "Mars @gyankijigyasa",
-    "Creation of universe @gyankijigyasa",
-],
-"HistoricalEvents" : [
-  
-    "Formation of NATO",
-    "Women's Rights Movement",
-    "Discovery of DNA Structure",
-    "Assassination of Martin Luther King Jr.",
-    "Cultural Revolution in China",
-    "Great Fire of London",
-    "Spanish Civil War",
-    "Sinking of the RMS Lusitania",
-    "Fall of the Aztec Empire",
-    "Crusades",
-    "Invention of the Printing Press",
-]
+    "words": [
+        "@gyankijigyasa",
+        "Hemophilia @gyankijigyasa",
+        "www.youtube.com/@gyankijigyasa",
+        "Venus @gyankijigyasa",
+        "Saturn @gyankijigyasa",
+        "Heart Attack @gyankijigyasa",
+        "Dimple @gyankijigyasa",
+        "Jupiter @gyankijigyasa",
+        "Light Year @gyankijigyasa",
+        "Oxygen @gyankijigyasa",
+        "Mars @gyankijigyasa",
+        "Creation of universe @gyankijigyasa",
+        "Bitcoin price",
+        "How to cook pasta",
+        "Best restaurants near me",
+        "Funny cat videos",
+        "How to tie a tie",
+        "How to learn a new language",
+        "Best books to read",
+        "How to start a business"
+    ],
+    "SciAndTech": [
+        "Cryptocurrency",
+        "Green Computing",
+        "Data Encryption",
+        "Internet of Everything",
+        "Artificial Reality",
+        "www.youtube.com/@gyankijigyasa",
+        "Saturn @gyankijigyasa",
+        "Heart Attack @gyankijigyasa",
+        "Dimple @gyankijigyasa",
+        "Jupiter @gyankijigyasa",
+        "Light Year @gyankijigyasa",
+        "Oxygen @gyankijigyasa",
+        "Mars @gyankijigyasa",
+        "Creation of universe @gyankijigyasa"
+    ],
+    "HistoricalEvents": [
+        "Formation of NATO",
+        "Women's Rights Movement",
+        "Discovery of DNA Structure",
+        "Assassination of Martin Luther King Jr.",
+        "Cultural Revolution in China",
+        "Great Fire of London",
+        "Spanish Civil War",
+        "Sinking of the RMS Lusitania",
+        "Fall of the Aztec Empire",
+        "Crusades",
+        "Invention of the Printing Press"
+    ]
 }
+
+
