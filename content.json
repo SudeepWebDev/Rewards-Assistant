@@ -1,0 +1,34 @@
+{
+    "tips": [
+        {
+            "title": "Tips",
+            "content": "You can perform other tasks but on the other tab."
+        },
+        {
+            "title": "For Mobile Search",
+            "content": "Step 1: press ctrl + shift + I\nStep 2: Click on responsive\nStep 3: Select any mobile device\nStep 4: Just start searching as usual"
+        }
+    ],
+    "channelNames": [
+        {
+            "name": "Channel Name 1",
+            "youtubeChannel": "YouTube Channel 1",
+            "country": "Country 1"
+        },
+        {
+            "name": "Channel Name 2",
+            "youtubeChannel": "YouTube Channel 2",
+            "country": "Country 2"
+        }
+    ],
+    "notifications": [
+        {
+            "title": "Rewards Assistant",
+            "content": "Rewards Assistant is an extension that automatically searches on Bing.com and earns you points for Rewards."
+        },
+        {
+            "title": "Rewards Assistant",
+            "content": "Rewards Assistant is a free and fun way to reward yourself and make a difference."
+        }
+    ]
+}
