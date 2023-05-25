@@ -527,6 +527,10 @@
     ],
     "categories": [
         {
+            "category": "Miscellaneous",
+            "value": "Miscellaneous"
+        }, 
+        {
             "category": "Science & Technology",
             "value": "Science"
         },
@@ -534,10 +538,6 @@
             "category": "Historical Events",
             "value": "HistoricalEvents"
         },
-        {
-            "category": "Miscellaneous",
-            "value": "Miscellaneous"
-        }, 
         {
             "category": "News",
             "value": "News"
