@@ -537,6 +537,10 @@
         {
             "category": "Miscellaneous",
             "value": "Miscellaneous"
+        }, 
+        {
+            "category": "News",
+            "value": "News"
         }
     ]
 }
