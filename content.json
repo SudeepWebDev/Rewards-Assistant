@@ -1,17 +1,18 @@
-
 {
     "description": [
-        "Rewards Assistant is an extension that automatically searches on Bing.com and earns you points for Rewards.",
-        "Rewards Assistant is a free and fun way to reward yourself and make a difference."
+        "is an extension that automatically searches on Bing.com and earns you points for Rewards.",
+        "is a free and fun way to reward yourself and make a difference."
     ],
     "tips": [
-        {
-            "title": "Tips",
-            "content": "You can perform other tasks but on the other tab."
-        },
+        "You can perform other tasks but on the other tab.",
         {
             "title": "For Mobile Search",
-            "content": "Step 1: press ctrl + shift + I\nStep 2: Click on responsive\nStep 3: Select any mobile device\nStep 4: Just start searching as usual"
+            "steps": [
+                "Step 1: press Ctrl + Shift + I",
+                "Step 2: Click on responsive",
+                "Step 3: Select any mobile device",
+                "Step 4: Just start searching as usual"
+            ]
         }
     ],
     "channelNames": [
