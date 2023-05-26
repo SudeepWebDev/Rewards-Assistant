@@ -1,1 +1,16 @@
-
+[
+  {
+    "url": "https://github.com/SudeepWebDev/Rewards-Assistant/blob/main/images/C__Users_Sudeep_Downloads_10801080_px_insta_story_or_whatsapp_status.png?raw=true",
+    "title": "ज्ञान की जिज्ञासा",
+    "description": "Satisfy your thirst for knowledge and curiosity with science, history, culture, and more. Subscribe now!",
+    "ctaUrl": "https://www.youtube.com/@gyankijigyasa",
+    "ctaText": "Subscribe to ज्ञान की जिज्ञासा"
+  },
+  {
+    "url": "https://github.com/SudeepWebDev/Rewards-Assistant/blob/e8efdf12921fe066383a9de2465a77dcaa162d2a/images/logo300.png?raw=true",
+    "title": "Rewards Assitant",
+    "description": "Automate Bing Searches to earn Rewards Points.",
+    "ctaUrl": "https://microsoftedge.microsoft.com/addons/detail/rewards-assistant/kkpjhahghfmbiibocfblallmginjfbpb",
+    "ctaText": "Get Rewards Assistant"
+  }
+]
