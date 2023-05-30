@@ -12,5 +12,12 @@
         "description": "Automate Bing Searches to earn Rewards Points.",
         "ctaUrl": "https://microsoftedge.microsoft.com/addons/detail/rewards-assistant/kkpjhahghfmbiibocfblallmginjfbpb",
         "ctaText": "Get Rewards Assistant"
+    },  
+    "3": {
+        "url": "https://github.com/SudeepWebDev/Rewards-Assistant/blob/e8efdf12921fe066383a9de2465a77dcaa162d2a/images/logo300.png?raw=true",
+        "title": "Artmancc",
+        "description": "Here, you will find digital arts, eyecatching canva's painting ",
+        "ctaUrl": "https://youtube.com/@artmancc",
+        "ctaText": "Get Rewards Assistant"
     }
 }
