@@ -4,7 +4,7 @@
         "is a free and fun way to reward yourself and make a difference."
     ],
     "tips": [
-        "You can perform other tasks but on the other tab.",
+        "You can perform other tasks but on the other tabs.",
         {
             "title": "For Mobile Search",
             "steps": [
@@ -12,6 +12,12 @@
                 "Step 2: Click on responsive",
                 "Step 3: Select any mobile device",
                 "Step 4: Just start searching as usual"
+            ]
+        }
+        {
+        "title": "Temporary Search Delay in New Tabs - Fix in Progress",
+            "steps": [
+                "We have identified an issue with the search functionality where searches may not initiate immediately after clicking the search button, particularly when using a new tab. To resolve this problem, please try clicking on another tab and then return to the search tab. Rest assured, we are actively working to address this issue and will implement a fix as soon as possible. Thank you for your understanding."
             ]
         }
     ],
