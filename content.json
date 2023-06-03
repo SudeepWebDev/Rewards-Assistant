@@ -2,11 +2,11 @@
   "slides": [
     {
       "title": "Boost your channel's visibility with personalized search queries!",
-      "content": "Good news! You can now input your own keywords and channel names to be added to the search array in our extension."
+      "content": "<p>Good news! You can now input your own keywords and channel names to be added to the search array in our extension.</p>"
     },
     {
       "title": "Improve your search rankings with personalized search queries",
-      "content": "By adding personalized search queries, you can increase your channel's visibility and improve search rankings."
+      "content": "<p>By adding personalized search queries, you can increase your channel's visibility and improve search rankings.</p>"
     },
     {
       "title": "How it works",
@@ -14,11 +14,11 @@
     },
     {
       "title": "Choose relevant keywords",
-      "content": "To get the best results, choose relevant and appropriate keywords that accurately describe your channel."
+      "content": "<p>To get the best results, choose relevant and appropriate keywords that accurately describe your channel.</p>"
     },
     {
       "title": "Submission review and timeframe",
-      "content": "Please note: We will review all submissions for quality to ensure that our search array remains high-quality and spam-free. Adding keywords may take up to 10 days."
+      "content": "<p>Please note: We will review all submissions for quality to ensure that our search array remains high-quality and spam-free. Adding keywords may take up to 1 week only.</p>"
     },
     {
       "title": "Disclaimer",
@@ -39,8 +39,8 @@
   },
   "verificationTimeframe": "Verification now takes up to 1 week only.",
   "description": [
-    "is an extension that automatically searches on Bing.com and earns you points for Rewards.",
-    "is a free and fun way to reward yourself and make a difference."
+    "Rewards Assistant is an extension that automatically searches on Bing.com and earns you points for Rewards.",
+    "Rewards Assistant is a free and fun way to reward yourself and make a difference."
   ],
   "tips": [
     "You can perform other tasks but on the other tabs.",
