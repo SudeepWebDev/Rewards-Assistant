@@ -662,56 +662,72 @@ div.faq-items>h3 {
 }
 
 /*  ads style*/
-.promo-container {
-    display: flex;
-    margin: auto;
-    align-items: center;
-    max-width: 500px;
-    padding: 16px;
-    background-color: #f1f1f1;
-    border: 1px solid #ebebeb;
-    border-radius: 8px;
-    position: relative;
-    z-index: 9999999;
-}
 
-.promo-title {
-    font-weight: bold;
-    margin-bottom: 8px;
- }
+    .promo-container {
+      display: flex !important;
+      margin: auto !important;
+      align-items: center !important;
+      max-width: 500px !important;
+      padding: 16px !important;
+      background-color: #f1f1f1 !important;
+      border: 1px solid #ebebeb !important;
+      border-radius: 8px !important;
+      position: relative !important;
+      z-index: 999999999999999999999 !important;
+    }
 
-.promo-image {
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-right: 16px;
-}
-.promo-description {
-    margin-bottom: 8px;
-}
+    .promo-image {
+      width: 120px !important;
+      height: 120px !important;
+      object-fit: cover !important;
+      border-radius: 8px !important;
+      margin-right: 16px !important;
+    }
 
-.promo-cta {
-    display: inline-block;
-    padding: 8px 16px;
-    background-color: #4285f4;
-    color: #ffffff;
-    text-decoration: none;
-    border-radius: 4px;
-}
+    .promo-content h3 {
+      display: inline-block;
+    }
 
-.promo-close {
-    cursor: pointer;
-    font-size: 30px;
-    margin-right: 8px;
-    color: #000;
-    position: absolute;
-    right: 0px;
-    top: 0px;
-}
+    .promo-title-last {
+      float: right;
+      padding-right: 10px;
+    }
 
-.promo-close:hover {
-    color: #333;
-}
+    .promo-title {
+      font-weight: bold !important;
+      margin-bottom: 8px !important;
+      color: black !important;
+      font-size: 16px !important;
+    }
 
+    .promo-description {
+      margin-bottom: 8px !important;
+      color: black !important;
+      font-size: 16px !important;
 
+    }
+
+    .promo-cta {
+      display: inline-block !important;
+      padding: 8px 16px !important;
+      background-color: #4285f4 !important;
+      color: #ffffff !important;
+      text-decoration: none !important;
+      border-radius: 4px !important;
+      font-size: 16px !important;
+
+    }
+
+    .promo-close {
+      cursor: pointer !important;
+      font-size: 30px !important;
+      margin-right: 8px !important;
+      color: #000 !important;
+      position: absolute !important;
+      right: 0px !important;
+      top: 0px !important;
+    }
+
+    .promo-close:hover {
+      color: #333 !important;
+    }
