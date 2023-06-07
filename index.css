@@ -662,7 +662,9 @@ div.faq-items>h3 {
 }
 
 /*  ads style*/
-
+.ads_section {
+    margin-top: 20px
+}
     .promo-container {
       display: flex !important;
       margin: auto !important;
@@ -673,7 +675,6 @@ div.faq-items>h3 {
       border: 1px solid #ebebeb !important;
       border-radius: 8px !important;
       position: relative !important;
-      z-index: 999999999999999999999 !important;
     }
 
     .promo-image {
