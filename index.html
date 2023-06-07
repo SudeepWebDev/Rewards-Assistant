@@ -67,15 +67,16 @@
     
     <!--   Ads Section   -->
     <section id="ads_section" class="fade-in">
-        <div class="promo-container">
-            <span class="promo-close">&times;</span>
-            <img src="${url}" id="${request.imageDivId}" class="promo-image"/>
-            <div class="promo-content">
-                <h3 class="promo-title">${title}</h3>
-                <p class="promo-description">${description}</p>
-                <a href="${ctaUrl}" class="promo-cta">${ctaText}</a>
-            </div>
-        </div>
+       <div class="promo-container">
+       <span class="promo-close">&times;</span>
+       <img src="${url}" id="${request.imageDivId}" class="promo-image" />
+       <div class="promo-content">
+         <h3 class="promo-title">${title}</h3>
+         <h3 class="promo-title promo-title-last">${platform}</h3>
+         <p class="promo-description">${description}</p>
+         <a href="${ctaUrl}" class="promo-cta">${ctaText}</a>
+       </div>
+    </div>
     </section>
     
     <!-- Features section -->
