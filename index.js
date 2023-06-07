@@ -169,3 +169,38 @@ faqItems.forEach(item => {
         answer.style.display = item.classList.contains('open') ? 'block' : 'none';
     });
 });
+
+
+const promoContainer = document.querySelector('.promo-container');
+
+fetch("https://raw.githubusercontent.com/SudeepWebDev/Rewards-Assistant/main/promo.json")
+  .then(response => response.json())
+  .then(data => {
+    const promoKeys = Object.keys(data);
+    const randomKey = promoKeys[Math.floor(Math.random() * promoKeys.length)];
+    const promoData = data[randomKey];
+
+    const { url, imageDivId, title, platform, description, ctaUrl, ctaText } = promoData;
+
+    const promoImage = promoContainer.querySelector('.promo-image');
+    promoImage.src = url;
+    promoImage.id = imageDivId;
+
+    const promoTitle = promoContainer.querySelector('.promo-title');
+    promoTitle.textContent = title;
+
+    const promoPlatform = promoContainer.querySelector('.promo-title-last');
+    promoPlatform.textContent = platform;
+
+    const promoDescription = promoContainer.querySelector('.promo-description');
+    promoDescription.textContent = description;
+
+    const promoCta = promoContainer.querySelector('.promo-cta');
+    promoCta.href = ctaUrl;
+    promoCta.textContent = ctaText;
+  })
+  .catch(error => {
+    console.error('Error fetching promo data:', error);
+  });
+
+
