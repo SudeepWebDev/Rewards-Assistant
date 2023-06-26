@@ -1,18 +1,53 @@
 {
-    "1": {
-        "url": "0wyO79X1OE8",
-        "platform": "Youtube",
-        "title": "ज्ञान की जिज्ञासा",
-        "description": "Satisfy your thirst for knowledge and curiosity with science, history, culture, and more. Subscribe now!",
-        "ctaUrl": "https://www.youtube.com/@gyankijigyasa",
-        "ctaText": "Subscribe to ज्ञान की जिज्ञासा"
-    },
-    "2": {
-        "url": "7VhbPxiUu_I",
-        "platform": "Youtube",
-        "title": "ज्ञान की जिज्ञासा",
-        "description": "Satisfy your thirst for knowledge and curiosity with science, history, culture, and more. Subscribe now!",
-        "ctaUrl": "https://www.youtube.com/@gyankijigyasa",
-        "ctaText": "Subscribe to ज्ञान की जिज्ञासा"
-    }
+    {
+  "1": {
+    "url": "0wyO79X1OE8",
+    "platform": "Youtube",
+    "title": "ज्ञान की जिज्ञासा",
+    "description": "Satisfy your thirst for knowledge and curiosity with science, history, culture, and more. Subscribe now!"
+  },
+  "2": {
+    "url": "7VhbPxiUu_I",
+    "platform": "Youtube",
+    "title": "ज्ञान की जिज्ञासा",
+    "description": "Satisfy your thirst for knowledge and curiosity with science, history, culture, and more. Subscribe now!"
+  },
+  "3": {
+    "url": "rnupz9HMm0M",
+    "platform": "Youtube",
+    "title": "Video Title 3",
+    "description": "Video Description 3"
+  },
+  "4": {
+    "url": "Zf7Fq1I28-w",
+    "platform": "Youtube",
+    "title": "Video Title 4",
+    "description": "Video Description 4"
+  },
+  "5": {
+    "url": "zx-dGt-ecnc",
+    "platform": "Youtube",
+    "title": "Video Title 5",
+    "description": "Video Description 5"
+  },
+  "6": {
+    "url": "shKaxHBTkEY",
+    "platform": "Youtube",
+    "title": "Video Title 6",
+    "description": "Video Description 6"
+  }
+  "7": {
+    "url": "ZuP20gqXtDE",
+    "platform": "Youtube",
+    "title": "Video Title 5",
+    "description": "Video Description 5"
+  },
+  "8": {
+    "url": "zEe1Fg-ZFmk",
+    "platform": "Youtube",
+    "title": "Video Title 6",
+    "description": "Video Description 6"
+  }
+}
+
 }
