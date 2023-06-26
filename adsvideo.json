@@ -1,5 +1,4 @@
 {
-    {
   "1": {
     "url": "0wyO79X1OE8",
     "platform": "Youtube",
@@ -35,19 +34,17 @@
     "platform": "Youtube",
     "title": "Video Title 6",
     "description": "Video Description 6"
-  }
+  },
   "7": {
     "url": "ZuP20gqXtDE",
     "platform": "Youtube",
-    "title": "Video Title 5",
-    "description": "Video Description 5"
+    "title": "Video Title 7",
+    "description": "Video Description 7"
   },
   "8": {
     "url": "zEe1Fg-ZFmk",
     "platform": "Youtube",
-    "title": "Video Title 6",
-    "description": "Video Description 6"
+    "title": "Video Title 8",
+    "description": "Video Description 8"
   }
-}
-
 }
