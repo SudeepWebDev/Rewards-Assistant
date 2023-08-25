@@ -1,47 +1,4 @@
 {
-  "slides": [
-    {
-      "title": "Boost your channel's visibility with personalized search queries!",
-      "content": "<p>Good news! You can now input your own keywords and channel names to be added to the search array in our extension.</p>"
-    },
-    {
-      "title": "Improve your search rankings with personalized search queries",
-      "content": "<p>By adding personalized search queries, you can increase your channel's visibility and improve search rankings.</p>"
-    },
-    {
-      "title": "How it works",
-      "content": "<ol><li>Input your channel name and relevant keywords that describe your channel.</li><li>Our extension will add your personalized search queries to our search database.</li><li>The more people search for your personalized queries using our extension, the higher your channel will rank in Bing search results.</li></ol>"
-    },
-    {
-      "title": "Choose relevant keywords",
-      "content": "<p>To get the best results, choose relevant and appropriate keywords that accurately describe your channel.</p>"
-    },
-    {
-      "title": "Submission review and timeframe",
-      "content": "<p>Please note: We will review all submissions for quality to ensure that our search array remains high-quality and spam-free. Adding keywords may take up to 1 week only.</p>"
-    },
-    {
-      "title": "Disclaimer",
-      "content": "<p>Please note that while personalized search queries may improve visibility and search rankings on Bing, there is no guarantee of increased visibility or search rankings.</p><p>Additionally, our extension will review all submissions for quality and reserves the right to reject any submissions that do not meet our standards.</p><p>We are not affiliated with or endorsed by Bing, and any use of Bing is subject to their own terms and conditions.</p>"
-    },
-    {
-      "title": "Feature Your Ad",
-      "content": "<p>Showcase your ad to 8,000+ daily users!</p><p>Reach, engage, and boost your brand!</p><p><strong>Unblockable Ads:</strong></p><p>Bypass ad blockers, wider reach.</p><p>Seamless integration, maximum visibility.</p><p>Promote without limits, connect effectively.</p><p>Don't miss users, increase engagement.</p><p>Choose Rewards Assistant for impact!</p>"
-    }
-  ],
-  "keywords": {
-    "title": "Add Keywords",
-    "content": "Now you can add your own keywords and channel names to be included in our search array. Increase your visibility and reach a wider audience!"
-  },
-  "ads": {
-    "title": "Show Your Ads",
-    "content": "Feature your ads to our user base of 8,000+ daily users. Unblockable ads, wider reach, and seamless integration for maximum visibility and impact!"
-  },
-  "verificationTimeframe": "Verification now takes up to 1 week only.",
-  "description": [
-    "Rewards Assistant is an extension that automatically searches on Bing.com and earns you points for Rewards.",
-    "Rewards Assistant is a free and fun way to reward yourself and make a difference."
-  ],
   "tips": [
     "You can perform other tasks but on the other tabs.",
     {
@@ -60,18 +17,7 @@
       ]
     }
   ],
-  "channelNames": [
-    {
-      "name": "Channel Name 1",
-      "youtubeChannel": "YouTube Channel 1",
-      "country": "Country 1"
-    },
-    {
-      "name": "Channel Name 2",
-      "youtubeChannel": "YouTube Channel 2",
-      "country": "Country 2"
-    }
-  ],
+ 
   "notifications": [
     {
       "title": "Rewards Assistant",
